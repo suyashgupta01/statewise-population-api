@@ -2,11 +2,11 @@
 ### Get info about Indian states with just the state name!
 
 This API takes a single argument: state, and returns the following data about it as a JSON object:
- * Poppulation 
+ * Population 
  * Decadal growth
  * Populatin 
- * Urban poppulation
- * Rural poppulation
+ * Urban population
+ * Rural population
  * Area
  * Density
  * Sex ratio
